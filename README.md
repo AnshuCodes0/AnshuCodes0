@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **shouryarajput.cse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** N/A
-- 🌱 **I’m currently learning:** Pythin
+- 🌱 **I’m currently learning:** Python
 - 🤔 **I’m looking for help with:** N/A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shouryarajput.cse@gmail.com
