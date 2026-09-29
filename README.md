@@ -1,3 +1,15 @@
+ 💫 Hi 👋, I'm Shourya Rajput
+**A student of Diploma in CSE || Software Engineer to be ||**
+
+Email Me 👉 ✉️ **shouryarajput.cse@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** N/A
+- 🌱 **I’m currently learning:** Pythin
+- 🤔 **I’m looking for help with:** N/A
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shouryarajput.cse@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
