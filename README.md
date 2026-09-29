@@ -13,6 +13,13 @@ Email Me 👉 ✉️ **shouryarajput.cse@gmail.com** For Collaboration/Project o
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AnshuCodes0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AnshuCodes0&theme=dark&hide_border=false)<br/>
